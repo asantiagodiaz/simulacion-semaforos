@@ -1,0 +1,1 @@
+# Paquete para la simulación visual con Pygame
