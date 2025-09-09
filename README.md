@@ -191,4 +191,3 @@ git remote add origin https://github.com/TU_USUARIO/simulacion-semaforos.git
 git push -u origin main
 ```
 
-¿Quieres que prepare issues o un plan de mejoras (GUI extra, sonidos, métricas CSV, pruebas automáticas)? Pídelo y te los dejo listos.
